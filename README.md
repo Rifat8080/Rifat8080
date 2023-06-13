@@ -1,6 +1,5 @@
 ![Header](https://github.com/Rifat8080/Rifat8080/assets/123451855/d72c7e9a-fd03-4261-a921-cd1f551432dd)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=50&color=00D5FF&multiline=true&width=740&height=150&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!+%F0%9F%9A%80;%E2%99%BB%EF%B8%8F+Here+ideas+convert+to+digital+;%F0%9F%92%BB+Solutions+%E2%9C%85)](https://git.io/typing-svg)
 ### Hi there 👋
 
 <!--
