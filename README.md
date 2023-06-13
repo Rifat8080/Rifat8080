@@ -1,5 +1,5 @@
-![Header](![github-header-image](https://github.com/Rifat8080/Rifat8080/assets/123451855/d72c7e9a-fd03-4261-a921-cd1f551432dd)
-)
+![Header](https://github.com/Rifat8080/Rifat8080/assets/123451855/d72c7e9a-fd03-4261-a921-cd1f551432dd)
+
 
 ### Hi there 👋
 
