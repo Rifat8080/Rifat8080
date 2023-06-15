@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=50&color=00D5FF&multiline=true&width=740&height=150&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!+%F0%9F%9A%80;%E2%99%BB%EF%B8%8F+Here+ideas+convert+to+digital+;%F0%9F%92%BB+Solutions+%E2%9C%85)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Md Mahadi Hasan Rifat</h1>
-<h3 align="center">A passionate software developer with a passion for creating innovative and efficient solutions. What sets me apart from others is my growth mindset to learn something and implement it in real life, which allows me to earn more knowledge and expertise in the developer world. With a track record of meeting tight deadlines and rapidly acquiring new programming languages, I am adept at adapting to diverse project requirements. I am particularly interested in opportunities where I can contribute to earn more knowledge and assets, and I believe that my expertise in different programming languages would be a valuable asset. Let's connect and discuss how we can collaborate to achieve our mutual benefits or goals.</h3>
+
+<h3 align="left">A passionate software developer with a passion for creating innovative and efficient solutions. What sets me apart from others is my growth mindset to learn something and implement it in real life, which allows me to earn more knowledge and expertise in the developer world. With a track record of meeting tight deadlines and rapidly acquiring new programming languages, I am adept at adapting to diverse project requirements. I am particularly interested in opportunities where I can contribute to earn more knowledge and assets, and I believe that my expertise in different programming languages would be a valuable asset. Let's connect and discuss how we can collaborate to achieve our mutual benefits or goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat8080&label=Profile%20views&color=0e75b6&style=flat" alt="rifat8080" /> </p>
 
