@@ -12,7 +12,9 @@
 - 🌏 I’m based in **Bangladesh**
 
 - 🌱 I’m currently learning **JS API**
-
+  
+- 🤝  Currently seeking new opportunities
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Rifat8080?tab=repositories](https://github.com/Rifat8080?tab=repositories)
 
 - 📝 I regularly write articles on [codewithrifat.com](codewithrifat.com)
